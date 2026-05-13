@@ -1,0 +1,16 @@
+body{
+  margin:0;
+  font-family: 'Segoe UI', sans-serif;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:flex-start;
+  padding-top:50px;
+
+  /* FONDO PRO */
+  background: radial-gradient(circle at 20% 30%, #ff3cac, transparent 40%),
+              radial-gradient(circle at 80% 70%, #784ba0, transparent 40%),
+              radial-gradient(circle at 50% 50%, #2b5876, #0f2027);
+
+  color:white;
+}
